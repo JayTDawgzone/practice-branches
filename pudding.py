@@ -1,1 +1,2 @@
-print('meow')
+def main():
+    print("makin' bacon pancakes")
