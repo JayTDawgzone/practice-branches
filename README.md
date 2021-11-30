@@ -9,6 +9,3 @@
 
 * Terra Thompson
 * Savannah Cordry
-
-
-![](https://i.redd.it/01flvd0d5s941.gif)
